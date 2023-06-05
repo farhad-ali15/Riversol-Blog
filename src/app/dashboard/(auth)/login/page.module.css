@@ -5,11 +5,11 @@
   gap: 20px;
 }
 
-.title{
+.title {
   color: #bbb;
 }
 
-.subtitle{
+.subtitle {
   font-size: 20px;
   margin-bottom: 30px;
   color: #bbb;
@@ -37,7 +37,7 @@
   width: 300px;
   padding: 20px;
   cursor: pointer;
-  background-color: #53c28b;
+  background-color: #73bbc9;
   border: none;
   border-radius: 5px;
   color: #eee;
